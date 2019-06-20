@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "496766456977",
+    "firebase_url": "https://simplelistview.firebaseio.com",
+    "project_id": "simplelistview",
+    "storage_bucket": "simplelistview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496766456977:android:3c735e6a21ade8bd",
+        "android_client_info": {
+          "package_name": "com.vimalinc.firebasesimplelistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496766456977-16gv0j300d4hp58fg5q7qlumlq5kg1ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIcR4_GpNxgwCQr4nLYEfyJdWbiabfqss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
